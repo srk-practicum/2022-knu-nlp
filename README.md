@@ -1,1 +1,3 @@
-# 2022-knu-nlp
+Hi there!
+
+My name is Kateryna Udovyk. Cheers :)
